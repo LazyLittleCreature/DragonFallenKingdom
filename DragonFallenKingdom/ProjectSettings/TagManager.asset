@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - poulet
+  - poulet_or
+  - bouclier
+  - dague
+  - bottes
+  - nuke
+  - Ennemi
   layers:
   - Default
   - TransparentFX
