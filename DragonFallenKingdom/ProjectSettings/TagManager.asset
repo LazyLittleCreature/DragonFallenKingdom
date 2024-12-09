@@ -12,6 +12,7 @@ TagManager:
   - nuke
   - Ennemi
   - Vague
+  - GameManager
   layers:
   - Default
   - TransparentFX
