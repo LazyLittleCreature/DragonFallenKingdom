@@ -11,6 +11,7 @@ TagManager:
   - bottes
   - nuke
   - Ennemi
+  - Vague
   layers:
   - Default
   - TransparentFX
