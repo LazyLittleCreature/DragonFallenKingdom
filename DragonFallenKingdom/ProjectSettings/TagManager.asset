@@ -13,6 +13,7 @@ TagManager:
   - Ennemi
   - Vague
   - GameManager
+  - VagueSensor
   layers:
   - Default
   - TransparentFX
