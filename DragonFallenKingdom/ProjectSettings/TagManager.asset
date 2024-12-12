@@ -14,6 +14,7 @@ TagManager:
   - Vague
   - GameManager
   - VagueSensor
+  - LevelScroll
   layers:
   - Default
   - TransparentFX
