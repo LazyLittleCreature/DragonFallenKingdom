@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 960301045254879931}
   - component: {fileID: 7428623867597159708}
   m_Layer: 0
-  m_Name: BasicShooterBullet
+  m_Name: Mini_Boss_Elek_Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
