@@ -16,6 +16,7 @@ TagManager:
   - VagueSensor
   - LevelScroll
   - shield
+  - Degat
   layers:
   - Default
   - TransparentFX
