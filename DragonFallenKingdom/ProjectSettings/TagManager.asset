@@ -3,27 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - poulet
-  - poulet_or
-  - bouclier
-  - dague
-  - bottes
-  - nuke
-  - Ennemi
-  - Vague
-  - GameManager
-  - VagueSensor
-  - LevelScroll
-  - shield
-  - Degat
-<<<<<<< Updated upstream
-  - cover
-=======
-  - EndlessEnnemi
-  - playerBullet
-  - pause
->>>>>>> Stashed changes
+  tags: []
   layers:
   - Default
   - TransparentFX
