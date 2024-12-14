@@ -17,7 +17,13 @@ TagManager:
   - LevelScroll
   - shield
   - Degat
+<<<<<<< Updated upstream
   - cover
+=======
+  - EndlessEnnemi
+  - playerBullet
+  - pause
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
