@@ -17,6 +17,7 @@ TagManager:
   - LevelScroll
   - shield
   - Degat
+  - cover
   layers:
   - Default
   - TransparentFX
